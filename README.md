@@ -43,21 +43,34 @@
 
 ---
 
-## Connect with Me  
+<h1 align="center">Arya Sinha</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arya-sinha-65b13b293/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=CS+Student+at+IEM+Kolkata;Learning+DSA+and+Web+Development" alt="typing">
+</p>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXA5NXpsNzhwMHVlY2htczA4dGkzMGt3YjJmOHk3cms3MXludHZuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" width="120" alt="animation">
+</p>
+
+---
+
+## Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arya-sinha-65b13b293/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="mailto:sinhaarya2304@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   &nbsp;
-  <a href="[https://www.instagram.com/in/arya_sinha__](https://www.instagram.com/arya_sinha__/)/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://instagram.com/arya_sinha__" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
+
 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aryasinha23-aryasinha23)
