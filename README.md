@@ -1,7 +1,7 @@
 <h1 align="center">Arya Sinha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=CS+Student+at+IEM+Kolkata;Learning+DSA+and+Full+Stack;Android+Development+with+Kotlin+%26+Jetpack+Compose">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=CS+Student+at+IEM+Kolkata;Learning+DSA+and+Web+Development">
 </p>
 
 <p align="center">
@@ -33,12 +33,12 @@
 ## GitHub Overview  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imgurujeet&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imgurujeet&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryasinha23&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryasinha23&theme=tokyonight" height="150">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imgurujeet&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryasinha23&theme=tokyonight">
 </p>
 
 ---
