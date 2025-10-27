@@ -30,6 +30,17 @@
 
 ---
 
+## GitHub Overview  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryasinha23&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryasinha23&theme=tokyonight" height="150">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryasinha23&theme=tokyonight">
+</p>
+
 ---
 
 ## Connect with Me
@@ -49,8 +60,4 @@
 </p>
 
 
-
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aryasinha23-aryasinha23)
-
-
-
