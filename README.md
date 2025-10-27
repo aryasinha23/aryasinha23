@@ -53,6 +53,10 @@
   <a href="mailto:sinhaarya2304@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  &nbsp;
+  <a href="https://www.instagram.com/in/arya_sinha__/">
+    <img src="https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </p>
 
 
