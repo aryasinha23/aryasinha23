@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/in/arya_sinha__/">
+  <a href="[https://www.instagram.com/in/arya_sinha__](https://www.instagram.com/arya_sinha__/)/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
