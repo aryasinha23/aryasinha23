@@ -30,29 +30,6 @@
 
 ---
 
-## GitHub Overview  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryasinha23&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryasinha23&theme=tokyonight" height="150">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryasinha23&theme=tokyonight">
-</p>
-
----
-
-<h1 align="center">Arya Sinha</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=CS+Student+at+IEM+Kolkata;Learning+DSA+and+Web+Development" alt="typing">
-</p>
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXA5NXpsNzhwMHVlY2htczA4dGkzMGt3YjJmOHk3cms3MXludHZuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" width="120" alt="animation">
-</p>
-
 ---
 
 ## Connect with Me
